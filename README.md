@@ -2,40 +2,24 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title. 
+This repository contains the material for the SAP TechEd 2020 session called INT165 - RPA As Easy As 1-2-3 Low-Code Design for Microsoft Office and SAP Software. 
 
 ## Overview
 
-This session introduces attendees to...
+This session introduces attendees to learn how to use SAPs new and simplified Low-Code Cloud Design Studio. Learn how to build a bot for common scenarios combining SAP Applications and MS Office. 
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The requirements to follow the exercises in this repository are described in the document [here](prerequisites/RPA As Easy As 1-2-3 Low-Code Design for Microsoft Office and SAP Software -Prerequisite.pdf)
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+The exercises of this sessions are:
 
-- [Getting Started](exercises/ex0/)
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
-
-
-**OR** Link to the PDF document stored in your github repo for example...
-
-Start the exercises [here](exercises/myPDFDoc.pdf).
-    
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
+- [Onboarding to SAP Intelligent RPA Trial](exercises/onboarding/RPA As Easy As 1-2-3 Low-Code Design for Microsoft Office and SAP Software Onboard.pdf)
+- [Exercise 1 - Excel](exercises/exercise 1)
+- [Exercise 2 - Word and Excel](exercises/exercise 2)
+- [Exercise 2 - Outlook](exercises/exercise 3)
 
 ## How to obtain support
 

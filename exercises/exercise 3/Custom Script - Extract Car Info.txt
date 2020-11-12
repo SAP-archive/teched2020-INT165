@@ -1,0 +1,13 @@
+const regEnd = emailBody.indexOf("\r", regStart);
+const rgNumber = emailBody.substr(regStart+21, regEnd-regStart-21);
+
+//Extracing person
+const ownerStart = emailBody.indexOf("Person:");
+const ownerEnd = emailBody.indexOf('\r', ownerStart);
+const ownerName = emailBody.substr(ownerStart+7, ownerEnd-ownerStart-7);
+
+const carInfo = {'registrationNumber': rgNumber, 'person': ownerName};
+
+carInfos.push(carInfo);
+
+return carInfo;

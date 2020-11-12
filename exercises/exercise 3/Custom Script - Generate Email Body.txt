@@ -1,0 +1,12 @@
+const header = "Hi, \n\n Please renew the insurances for the cars our company are currently using:\n\n";
+
+let body = "";
+for (let i = 0; i < carInfos.length; i++) {
+    body = body + "\tRegistration number: " + carInfos[i].registrationNumber;
+    body = body + ", for the driver: " + carInfos[i].person + " \n";
+}
+
+const footer = "\nAll the new insurance certificats are to be provided by replying this email. \n Best";
+
+return header + body + footer;
+
