@@ -17,7 +17,7 @@ The requirements to follow the exercises in this repository are described in the
 The exercises of this sessions are:
 
 - [Onboarding to SAP Intelligent RPA Trial](exercises/onboarding/RPA As Easy As 1-2-3 Low-Code Design for Microsoft Office and SAP Software Onboard.pdf)
-- [Exercise 1 - Excel](LICENSES/Apache-2.0.txt)
+- [Exercise 1 - Excel](exercises/exercise 1)
 - [Exercise 2 - Word and Excel](exercises/exercise 2)
 - [Exercise 2 - Outlook](exercises/exercise 3)
 
