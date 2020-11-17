@@ -10,16 +10,16 @@ This session introduces attendees to learn how to use SAPs new and simplified Lo
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are described in the document [here](prerequisites/RPA%20As%20Easy%20As%201-2-3%20Low-Code%20Design%20for%20Microsoft%20Office%20and%20SAP%20Software%20-Prerequisite.pdf)
+The requirements to follow the exercises in this repository are described in the document [here](prerequisites/RPA%20As%20Easy%20As%201-2-3%20Low-Code%20Design%20for%20Microsoft%20Office%20and%20SAP%20Software%20-Prerequisite.pdf).
 
 ## Exercises
 
 The exercises of this sessions are:
 
-- [Onboarding to SAP Intelligent RPA Trial](exercises/onboarding/RPA As Easy As 1-2-3 Low-Code Design for Microsoft Office and SAP Software Onboard.pdf)
-- [Exercise 1 - Excel](exercises/exercise 1)
-- [Exercise 2 - Word and Excel](exercises/exercise 2)
-- [Exercise 2 - Outlook](exercises/exercise 3)
+- [Onboarding to SAP Intelligent RPA Trial](exercises/onboarding/RPA%20As%20Easy%20As%201-2-3%20Low-Code%20Design%20for%20Microsoft%20Office%20and%20SAP%20Software%20Onboard.pdf)
+- [Exercise 1 - Excel](exercises/exercise%201)
+- [Exercise 2 - Word and Excel](exercises/exercise%202)
+- [Exercise 2 - Outlook](exercises/exercise%203)
 
 
 ## License
