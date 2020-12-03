@@ -19,7 +19,7 @@ The exercises of this sessions are:
 - [Onboarding to SAP Intelligent RPA Trial](exercises/onboarding/RPA%20As%20Easy%20As%201-2-3%20Low-Code%20Design%20for%20Microsoft%20Office%20and%20SAP%20Software%20Onboard.pdf)
 - [Exercise 1 - Excel](exercises/exercise%201)
 - [Exercise 2 - Word and Excel](exercises/exercise%202)
-- [Exercise 2 - Outlook](exercises/exercise%203)
+- [Exercise 3 - Outlook](exercises/exercise%203)
 
 ## How to obtain support
 
