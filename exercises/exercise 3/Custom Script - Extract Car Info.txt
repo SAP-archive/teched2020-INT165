@@ -1,3 +1,4 @@
+const regStart = emailBody.indexOf("Registration number:");
 const regEnd = emailBody.indexOf("\r", regStart);
 const rgNumber = emailBody.substr(regStart+21, regEnd-regStart-21);
 
