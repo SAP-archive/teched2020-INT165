@@ -1,5 +1,7 @@
 # INT165 - RPA As Easy As 1-2-3: Low-Code Design for Microsoft Office and SAP Software
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-INT165)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-INT165)
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2020 session called INT165 - RPA As Easy As 1-2-3 Low-Code Design for Microsoft Office and SAP Software. 
